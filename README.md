@@ -1,52 +1,86 @@
-<div align="center">
-  <h1>Hi 👋, I am Mohammad Anas Saifi</h1>
-  <p>Computer Science Student | Building AI Agents and Full-Stack Web Apps</p>
-  <img src="https://komarev.com/ghpvc/?username=Anassaifi7845&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+# Hi, I'm Anas 👋
 
-<hr>
+### Computer Science Student | AI & Software Development | Automation
 
-<h3>About me</h3>
-<ul>
-  <li>🤖 Building autonomous AI agents using Google ADK and Model Context Protocol (MCP)</li>
-  <li>💻 Developing full-stack web applications and digital growth tools</li>
-  <li>🌐 Practicing network simulations and data structures</li>
-  <li>📫 Reach me at anassaifi51261@gmail.com</li>
-</ul>
+I'm a Computer Science student focused on building practical software, exploring AI engineering, and understanding how modern technologies work under the hood.
 
-<h3>Things I have shipped</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What it does</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Anassaifi7845/portfolio">Portfolio</a></td>
-      <td>Personal developer portfolio showcasing projects and skills</td>
-      <td>🚀 Live</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Anassaifi7845/mini-social">Mini Social</a></td>
-      <td>Full-stack social media web application</td>
-      <td>✅ Completed</td>
-    </tr>
-  </tbody>
-</table>
+I enjoy experimenting with AI tools, developing applications, automating workflows, and turning ideas into working projects.
 
-<h3>What I work with</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+---
 
-<h3>GitHub Activity</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anassaifi7845&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+### About Me
+
+- 🎓 B.Tech Computer Science & Engineering student
+- 🤖 Exploring Generative AI, AI Agents, and Machine Learning
+- ⚙️ Building automation workflows using n8n
+- 🐳 Learning Docker, deployment, and backend infrastructure
+- 💻 Strengthening my foundations in C++, DSA, and Python
+- 🔍 Interested in understanding the engineering behind AI systems, not just using them
+- 🚀 Working towards building useful software products and AI-powered solutions
+
+---
+
+### Tech Stack & Tools
+
+**Languages**
+
+`C++` `Python` `JavaScript`
+
+**AI & Automation**
+
+`Ollama` `n8n` `LLMs` `AI Agents`
+
+**Development & Infrastructure**
+
+`Docker` `Git` `GitHub` `Linux`
+
+**Backend & Data**
+
+`Django` `REST APIs` `Qdrant` `SQL`
+
+**Currently Exploring**
+
+`Generative AI` `RAG` `AI Agent Workflows` `Cloud Computing` `Full-Stack Development`
+
+---
+
+### Projects & Experiments
+
+I work on practical projects to understand software development, automation, and AI systems.
+
+- **AI Automation:** Designing workflow-based AI systems using n8n, LLMs, and automation tools.
+- **AI Voice Agents:** Exploring conversational AI agents for business communication and sales automation.
+- **Local AI:** Experimenting with locally running language models using Ollama.
+- **Backend Development:** Building and learning backend systems, APIs, and application logic.
+- **Computer Science Fundamentals:** Practicing DSA, programming, networking, and software engineering.
+
+Check out my repositories to see what I'm building.
+
+---
+
+### Currently Learning
+
+- Data Structures & Algorithms
+- Generative AI and LLM architecture
+- AI Agents and workflow automation
+- Backend development and APIs
+- Docker and deployment
+- Cloud computing
+
+---
+
+### My Approach
+
+I believe understanding the fundamentals matters.
+
+I focus on learning how systems work, experimenting with technologies, building projects, and improving through practical implementation.
+
+---
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/anas-saifi-989b5336a/) | [GitHub](https://github.com/Anassaifi7845)
+
+---
+
+*Learning, building, and improving one project at a time.*
